@@ -1,5 +1,5 @@
 # Laboratorio 07 - React Native
-##Tareas a realizar
+## Tareas a realizar
 ### Instalar el proyecto
 1. descargar el repositorio
    1. ```git clone https://github.com/mart-dominguez/DamLab07.git ```
