@@ -1,0 +1,20 @@
+C:\Users\st>cd Documents
+C:\Users\st\Documents>mkdir appmoviles
+C:\Users\st\Documents>cd appmoviles
+# de ser necesario configurar proxy para git >git config --global https.proxy http://proxy.frsf.utn.edu.ar:8080
+C:\Users\st\Documents\appmoviles>git clone https://github.com/mart-dominguez/DamLab07.git
+C:\Users\st\Documents\appmoviles>cd DamLab07
+configurar proxy
+npm config set proxy http://proxy.frsf.utn.edu.ar:8080
+npm config set https-proxy http://proxy.frsf.utn.edu.ar:8080
+C:\Users\st\Documents\appmoviles>npm install
+
+
+https://stackoverflow.com/questions/55441230/unable-to-load-script-make-sure-you-are-either-running-a-metro-server-or-that-yo
+
+ [
+  /node_modules[\/\\]react[\/\\]dist[\/\\].*/,
+  /website\/node_modules\/.*/,
+  /heapCapture\/bundle\.js/,
+  /.*\/__tests__\/.*/
+];
